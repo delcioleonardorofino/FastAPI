@@ -1,0 +1,94 @@
+# Arquivos do ambiente virtual Python
+venv/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Arquivos de configuração do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+.Python
+
+# Arquivos de IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Arquivos de banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de log e cache
+*.log
+*.cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Arquivos de build/distribuição
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+
+# Arquivos de migração do SQLAlchemy (se aplicável)
+/migrations/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos do pytest
+.pytest_cache/
+
+# Arquivos do Visual Studio Code
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Arquivos do PyCharm
+.idea/workspace.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/
+.idea/*.iml
+
+# Arquivos do macOS
+._*
+.Spotlight-V100
+.Trashes
+
+# Arquivos do Windows
+[Tt]humbs.db
+Desktop.ini
+
+# Arquivos de desenvolvimento
+instance/
+.webassets-cache
+
+# Arquivos de documentação
+docs/_build/
+
+# Arquivos de cobertura de testes
+.coverage
+.coverage.*
