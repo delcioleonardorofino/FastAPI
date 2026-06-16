@@ -60,7 +60,7 @@ Prerequisites
 Clone the repository and set up your virtual environment:
 ```Bash
 
-git clone [https://github.com/your-username/fastapi-learning-project.git](https://github.com/your-username/fastapi-learning-project.git)
+git clone [https://github.com/delcioleonardorofino/FastAPI.git]
 cd fastapi-learning-project
 
 python3 -m venv venv
